@@ -1,23 +1,27 @@
 /* add your CSS here */
 .main{
-	width: 300px;
+	width: 400px;
 	border: groove;
 	box-shadow:  5px 5px 5px #888888;
 	padding: 1% 1%;
 }
 .name{
 	border: none;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
 }
 .image{
 	border: none;
 	margin-bottom: 5px;
-    height: 200px;
-    width:300px;
+    height: 250px;
+    width:350px;
     overflow: hidden;
 }
 .details{
 	padding: 1% 1%;
 	border: groove;
+	font-family: 'Raleway', sans-serif;
 }
 .fact{
 	margin: 5px;
